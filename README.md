@@ -1,4 +1,4 @@
-# Day2_intership-elevate_labs-
+# Day2_internship-elevate_labs-
 Awareness of phishing tactics and email threat analysis skills.
 
 
