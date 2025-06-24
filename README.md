@@ -2,8 +2,9 @@
 Awareness of phishing tactics and email threat analysis skills.
 
 
-
 📧 Sample Phishing Email (Example)
+
+
 Subject: 🔒 Urgent Account Alert: Your Bank Account Has Been Locked!
 From: support@bankofamerica-secure.com
 Body:
